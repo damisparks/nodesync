@@ -1,3 +1,6 @@
 [submodule "nodesync-react"]
 	path = nodesync-react
 	url = git@github.com:damisparks/nodesync-react.git
+[submodule "nodesync-express"]
+	path = nodesync-express
+	url = git@github.com:damisparks/nodesync-express.git
